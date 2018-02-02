@@ -1,4 +1,5 @@
 # lightbylight
+Using CMSSW_7_5_8_patch4 for the analysis 
 
 * hiforest trees are made using 
   HeavyIonsAnalysis/PhotonAnalysis/plugins/ggHiNtuplizer.cc
