@@ -22,3 +22,7 @@ efficiency macros are run on hiforest files obtained in previous step
 
 * Submit the efficiency jobs using mysubmit_job.py in each directory, runs on 195 text files, filelist_*.txt
 
+# Reconstruction
+  * add all directories to CMSSW_7_5_8_Patch4 and scram
+  * aod_raw_to_reco_data_cfg.py runs the reconstruction 
+  * crabConfig.py to submit the crab jobs. 
